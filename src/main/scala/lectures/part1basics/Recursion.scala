@@ -1,4 +1,4 @@
-package lectues.part1basics
+package lectures.part1basics
 
 import scala.annotation.tailrec
 import scala.jdk.Accumulator
