@@ -28,3 +28,18 @@
       * 4. Overload the apply method
       *    mary.apply(2) => "Mary watched Inception 2 times"
       */
+
+
+/**
+ * head = first element of the list
+ * tail = remainder of the list
+ * isEmpty = is this list empty
+ * add(int) => new list with this element added
+ * toString => a string representation of list
+ */
+
+ / higher order function (HOF)
+
+   // function that applies a function n times over a value x
+   // nTimes( f, n, x)
+   // nTimes(f, 3, x) = f(f(f(x)))
